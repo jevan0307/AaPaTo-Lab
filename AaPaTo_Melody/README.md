@@ -11,7 +11,7 @@ Control your LinkIt One play a melody via buzzer from your Android phone.
  
 ## Android
 
-See supported Android version and deceives [here.](https://github.com/don/BluetoothSerial)
+See supported Android versions and devices [here.](https://github.com/don/BluetoothSerial)
 
 ### Upload the sketch
 
