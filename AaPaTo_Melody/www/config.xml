@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.aapato.bluetooth.melody" version="0.1.0">
+    <name>LinkItOne Lab</name>
+    <description>
+        Android app for controlling an melody player(Arduino or LinkIt One) via Bluetooth Serial
+    </description>
+    <author email="jevan0307@gmail.com">
+        Jevan Chan
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="fullscreen" value="false" />
+    <preference name="DisallowOverscroll" value="true" />        
+</widget>
